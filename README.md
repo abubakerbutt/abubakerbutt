@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abubakerbutt
 - 👀 I’m interested in learning to build new skills
-- 🌱 I’m currently learning to be a Devops engineer
-- 💞️ I’m looking to collaborate on aws Architect Solution and Devops tools
+- 🌱 I’m currently learning to be a Web Developer (Front-end)
+- 💞️ I’m looking to collaborate and make new friends who has started their code journey recently and looking for the same enviroment.
 - 📫 ab.butt_01@yahoo.com
 
 <!---
